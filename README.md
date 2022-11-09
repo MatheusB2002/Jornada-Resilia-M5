@@ -1,0 +1,1 @@
+# Jornada-Resilia-M5-SQUAD1
