@@ -15,7 +15,7 @@ Foi então que abriu a turma de dados da Resilia. Diante dos vários relatos de 
 ## 4. A travessia para o novo mundo:
 Passamos na seletiva e aceitamos o desafio de aprender uma carreira nova em 6 meses. Estudamos muito nesses 6 meses. Aprendemos linguagens de programação, aprendemos a trabalhar em conjunto, aprendemos a lidar com nossas frustrações e também com nossas conquistas. 
 
-## 5. Os testes, alidaos e inimigos:
+## 5. Os testes, aliados e inimigos:
 Mas todos esses sprendizados não vieram assim, de uma hora pra outra. Foi resultado de muito esforço. Fomos testados, toda semana, nas nossas habilidades técnicas mas também nas emocionais. E o Resumo dessa jornada foi tranformado em dados e uma visualização bonita (powerBI). Citar as principais dificuldades de cada um aqui. 
 Aprender python , SQL, pandas...codewars, ToDos..
 
