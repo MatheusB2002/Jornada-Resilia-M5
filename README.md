@@ -1,70 +1,75 @@
-# Jornada-Resilia-M5-SQUAD1
+<h1 align="center" > PROJETO FINAL - STORYTELLING </h1>
 
-### NOME DO FILME
+<img src ='https://www.canva.com/design/DAFRkWNOaDE/watch' align='center'/>
 
-![A JORNADA (1)](gif)
+## 🎯 **O Projeto**
+>Como projeto final do curso de Data Analytics da Resilia, o objetivo do projeto é contar a nossa trajetória durante o curso, utilizando de Storytelling, a partir dos dados gerado pela nossa jornada durante o curso.
+
+## 💻 **Tecnologias**
+> [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/pt-br/)
 
 
-### ROTEIRO
 
+## 👩‍💻👨‍💻 **A Squad:**
 
+<table align="center">
 
-
-### HEROIS DA JORNADA
-
-### Ana Carolina
-<img src="https://user-images.githubusercontent.com/40433498/200732083-e087e49e-97e5-42f7-afe4-4bd6b9f090f1.PNG" width="100" height="100" />
-<p align="left">
-  
- 
-
-<p align="left">
-  <a href="#" alt="Linkedin">
-  <a href="https://www.linkedin.com/in/carolinamoralles/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
-
- <a href="#" alt="Github">
-     <a href="https://github.com/amoralles" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
-</p> 
- 
-### Camila
-<img src="https://user-images.githubusercontent.com/40433498/200732086-4479263d-bfe3-4d26-863b-a304756005dd.jpg" width="100" height="100" />
-<p align="left">
-  
- 
-
-<p align="left">
-  <a href="#" alt="Linkedin">
-  <a href="https://www.linkedin.com/in/camillasampaioo/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
-  
- <a href="#" alt="Github">
-     <a href="https://github.com/camillaruwel" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
-</p> 
-
-### Elizangela 
-<img src="https://user-images.githubusercontent.com/40433498/174670820-6b28fdd7-b343-430f-87a9-76e63ad32265.jpg" width="100" height="100" />
-<p align="left">
-  
- 
-
-<p align="left">
-  <a href="#" alt="Linkedin">
-  <a href="https://www.linkedin.com/in/elizangela-camargo-3ab908144/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
-
- <a href="#" alt="Github">
-     <a href="https://github.com/lucasCanella/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
-</p> 
-
- 
- ### Matheus
-<img src="https://user-images.githubusercontent.com/40433498/200732085-80a402e7-cf58-44d8-92da-e19d083e4961.jpg" width="100" height="100" />
-<p align="left">
-  
- 
-
-<p align="left">
-  <a href="#" alt="Linkedin">
+<td align="center"><br>
+        <a href="">
+            <img src="https://user-images.githubusercontent.com/40433498/200732083-e087e49e-97e5-42f7-afe4-4bd6b9f090f1.PNG" width="130px;" alt="Ana Carolina" style="max-width:100%;">
+            <br><sub><b>Ana Carolina Moralles</b></sub><br>
+        <p align="center">
+            </a>    
+            <a href="https://github.com/amoralles">
+                   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amoralles">
+            </a>
+            <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/carolinamoralles/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+       </p>
+</td>
+  <td align="center"><br>
+        <a href="">
+            <img src="https://user-images.githubusercontent.com/40433498/200732086-4479263d-bfe3-4d26-863b-a304756005dd.jpg" width="150px;" alt="Camilla Sampaio" style="max-width:100%;">
+            <br><sub><b>Camilla Sampaio</b></sub><br>
+        <p align="center">
+            </a>    
+            <a href="https://www.linkedin.com/in/camillasampaioo/">
+                   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/camillasampaioo">
+            </a>
+            <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/camillasampaioo/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+       </p>
+</td>
+<td align="center"><br>
+        <a href="">
+            <img src="https://user-images.githubusercontent.com/40433498/174670820-6b28fdd7-b343-430f-87a9-76e63ad32265.jpg" width="150px;" align="center"; alt="Elizangela Camargo" style="max-width:100%;">
+            <br><sub><b>Elizangela Camargo</b></sub><br>
+        <p align="center">
+            </a>    
+            <a href="https://github.com/elizangela-camargo">
+                   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/elizangela-camargo">
+            </a>
+              <a href="#" alt="Linkedin">
+              <a href="https://www.linkedin.com/in/elizangela-camargo-3ab908144/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
+       </p>
+       
+ </td>
+  <td align="center"><br>
+        <a href="">
+            <img src="https://user-images.githubusercontent.com/40433498/200732085-80a402e7-cf58-44d8-92da-e19d083e4961.jpg" width="150px;" alt="Matheus" style="max-width:100%;">
+            <br><sub><b>Matheus Barbosa</b></sub><br>
+        <p align="center">
+            </a>    
+            <a href="https://github.com/MatheusB2002">
+                   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusB2002">
+            </a>
   <a href="https://www.linkedin.com/in/matheusbarbosa-an%C3%A1lise-dados/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
+       </p>
+    </td>
+         
+</table>
 
- <a href="#" alt="Github">
-     <a href="https://github.com/MatheusB2002" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
-</p> 
+## 🖼️ Slides:
+> <a href="https://www.canva.com/design/DAFQ0g2cL2g/M1eIw1xi6DW31kEyqYE6Mg/view?utm_content=DAFQ0g2cL2g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" >Apresentação no Canva
+
+
