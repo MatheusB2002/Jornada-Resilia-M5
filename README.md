@@ -17,9 +17,7 @@
 <p align="left">
   
  
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+
 <p align="left">
   <a href="#" alt="Linkedin">
   <a href="https://www.linkedin.com/in/carolinamoralles/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
@@ -33,9 +31,7 @@
 <p align="left">
   
  
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+
 <p align="left">
   <a href="#" alt="Linkedin">
   <a href="https://www.linkedin.com/in/camillasampaioo/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
@@ -49,9 +45,7 @@
 <p align="left">
   
  
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+
 <p align="left">
   <a href="#" alt="Linkedin">
   <a href="https://www.linkedin.com/in/elizangela-camargo-3ab908144/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
@@ -66,9 +60,7 @@
 <p align="left">
   
  
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+
 <p align="left">
   <a href="#" alt="Linkedin">
   <a href="https://www.linkedin.com/in/matheusbarbosa-an%C3%A1lise-dados/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
