@@ -3,7 +3,7 @@
 ![A JORNADA](https://user-images.githubusercontent.com/40433498/201169750-dd89a097-4627-4b83-b995-19b099a5ddf0.gif)
 
 ## 🎯 **O Projeto**
->Como projeto final do curso de Data Analytics da Resilia, o objetivo do projeto é contar a nossa trajetória durante o curso, utilizando de Storytelling, a partir dos dados gerado pela nossa jornada durante o curso.
+>Como projeto final do curso de Data Analytics da Resilia, o objetivo  é contar a nossa trajetória durante o curso, utilizando de Storytelling, a partir dos dados gerados pela nossa jornada. Utilizamos dados do GitHub, Linkedin e Codewars para contar a nossa história.
 
 ## 💻 **Tecnologias**
 > [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/pt-br/)
